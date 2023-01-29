@@ -10,4 +10,5 @@ Not a complete list. But the resources I think you *have* to check out.
 
 ## People
 
- * Inigo Quilez: He's doing very cool stuff on Youtube https://www.youtube.com/@InigoQuilez and his site is a goldmine: https://iquilezles.org/
+* **Inigo Quilez:** He's doing very cool stuff on Youtube https://www.youtube.com/@InigoQuilez and his site is a goldmine: https://iquilezles.org/
+* **Freya Holmér:** You can randomly watch a video and gain something: https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA
